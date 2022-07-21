@@ -9,6 +9,27 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 * Import different types of data files into Python
 * Visualize and run hypothesis-testing on simple datasets in Python 
 
+### Course Schedule
+
+| Time (PST) |    Time (EST)   | Description |
+|:------:|:------:|:-----------------------:|
+|    10-10:30 am   |  1-1:30 pm  | 01-Intro | 
+|    10:30-11 am   | 1:30-2 pm | 02-Variables,Expression,Syntax |
+|    11 am-12 pm  | 2-3 pm | 03-Conditionals |
+|    12 -12:30 pm   |    3-3:30 pm    | Break |
+| 12:30-1:15 pm | 3:30-4:15 pm | 04-DataStructures |
+| 1:15-2 pm | 4:15-5 pm| 05-Functions|
+
+
+| Time (PST) |    Time (EST)   | Description |
+|:------:|:------:|:-----------------------:|
+|    10-10:30 am   |  1-1:30 pm  | Welcome Back & Take Home Assignment Review | 
+|    10:30-11:30 am   | 1:30-2:30 pm | 06-Loops|
+|    11:30 am-12:30 pm  | 2:30-3:30 pm | 07-NumPy,TimeSeries |
+|    12:30 -1 pm   |    3:30-4 pm    | Break |
+| 1-1:30 pm | 4-4:30 pm | 08-PandasDataSci |
+| 1:30-2 pm | 4:30-5 pm| 09-DescriptiveStats|
+
 ### How To Use These Materials
 The easiest way to use these materials is to open them in Colab, using the link below!
 
