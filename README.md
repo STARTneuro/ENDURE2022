@@ -13,7 +13,7 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 <br>
 
 ## Contact Information
-|:----------------:|:----------------:
+|:----------------:|:----------------:|
 Ashley Juavinett | ajuavinett@ucsd.edu |
 Ro Sandoval | rlsandoval@health.ucsd.edu |
 Claire Sun | sun.claire32@gmail.com |
