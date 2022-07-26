@@ -12,12 +12,27 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 
 <br>
 
+## Contact Information
+Ashley Juavinett | ajuavinett@ucsd.edu
+Ro Sandoval | rlsandoval@health.ucsd.edu
+Claire Sun | sun.claire32@gmail.com
+Luis Ramirez | luisdr@bu.edu
+Karla Godinez | kgodinezmacias@health.ucsd.edu
+Michael Schaid | michael.schaid@northwestern.edu
+Liz Chamiec-case | echamieccase@health.ucsd.edu
+Grant Vousden-Dishington | grantrvd@gmail.com
+Chris Vaaga | christopher.vaaga@northwestern.edu
+Chiaki Santiago | c5santia@health.ucsd.edu
+
+
+<br>
+
 ## Course Schedule
 ### Tuesday, July 26th
 
 | Time (PST) |    Time (EST)   | Description |
 |:----------------:|:----------------:|:---------------------------------:|
-|    10-10:30 am   |  1-1:30 pm  | 01-Intro | 
+|    10-10:30 am   |  1-1:30 pm  | 01-Intro |
 |    10:30-11 am   | 1:30-2 pm | 02-Variables,Expression,Syntax |
 |    11 am-12 pm  | 2-3 pm | 03-Conditionals |
 |    12 -12:30 pm   |    3-3:30 pm    | Break |
