@@ -13,16 +13,17 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 <br>
 
 ## Contact Information
-Ashley Juavinett | ajuavinett@ucsd.edu
-Ro Sandoval | rlsandoval@health.ucsd.edu
-Claire Sun | sun.claire32@gmail.com
-Luis Ramirez | luisdr@bu.edu
-Karla Godinez | kgodinezmacias@health.ucsd.edu
-Michael Schaid | michael.schaid@northwestern.edu
-Liz Chamiec-case | echamieccase@health.ucsd.edu
-Grant Vousden-Dishington | grantrvd@gmail.com
-Chris Vaaga | christopher.vaaga@northwestern.edu
-Chiaki Santiago | c5santia@health.ucsd.edu
+|:----------------:|:----------------:
+Ashley Juavinett | ajuavinett@ucsd.edu |
+Ro Sandoval | rlsandoval@health.ucsd.edu |
+Claire Sun | sun.claire32@gmail.com |
+Luis Ramirez | luisdr@bu.edu |
+Karla Godinez | kgodinezmacias@health.ucsd.edu |
+Michael Schaid | michael.schaid@northwestern.edu |
+Liz Chamiec-case | echamieccase@health.ucsd.edu |
+Grant Vousden-Dishington | grantrvd@gmail.com |
+Chris Vaaga | christopher.vaaga@northwestern.edu |
+Chiaki Santiago | c5santia@health.ucsd.edu |
 
 
 <br>
