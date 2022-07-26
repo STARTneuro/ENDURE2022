@@ -12,23 +12,6 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 
 <br>
 
-## Contact Information
-
-| Name |   Email   | Lessons | 
-|:----------------:|:----------------:|:---------------------------------:|
-| Ashley Juavinett | ajuavinett@ucsd.edu | 06. Loops & 07. NumPy,  Time Series, & Data Viz  |
-| Ro Sandoval | rlsandoval@health.ucsd.edu |   |
-| Claire Sun | sun.claire32@gmail.com | 02. Variables, Expressions, & Syntax |
-| Luis Ramirez | luisdr@bu.edu | 03. Conditionals |
-| Karla Godinez | kgodinezmacias@health.ucsd.edu | 04. Data structures |
-| Michael Schaid | michael.schaid@northwestern.edu | 05. Functions |
-| Liz Chamiec-case | echamieccase@health.ucsd.edu | 08. Pandas and Neural Data Science |
-| Grant Vousden-Dishington | grantrvd@gmail.com | 09. Descriptive Statistics with SciPy |
-| Chris Vaaga | christopher.vaaga@northwestern.edu | |
-| Chiaki Santiago | c5santia@health.ucsd.edu | |
-
-
-<br>
 
 ## Course Schedule
 ### Tuesday, July 26th
@@ -58,3 +41,22 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 The easiest way to use these materials is to open them in Colab, using the link below!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/STARTneuro/ENDURE2022)
+
+<br>
+
+## Contact Information
+
+| Name |   Email   | Lessons | 
+|:----------------:|:----------------:|:---------------------------------:|
+| Ashley Juavinett | ajuavinett@ucsd.edu | 06. Loops & 07. NumPy,  Time Series, & Data Viz  |
+| Ro Sandoval | rlsandoval@health.ucsd.edu |   |
+| Claire Sun | sun.claire32@gmail.com | 02. Variables, Expressions, & Syntax |
+| Luis Ramirez | luisdr@bu.edu | 03. Conditionals |
+| Karla Godinez | kgodinezmacias@health.ucsd.edu | 04. Data structures |
+| Michael Schaid | michael.schaid@northwestern.edu | 05. Functions |
+| Liz Chamiec-case | echamieccase@health.ucsd.edu | 08. Pandas and Neural Data Science |
+| Grant Vousden-Dishington | grantrvd@gmail.com | 09. Descriptive Statistics with SciPy |
+| Chris Vaaga | christopher.vaaga@northwestern.edu | |
+| Chiaki Santiago | c5santia@health.ucsd.edu | |
+
+
