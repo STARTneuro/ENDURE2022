@@ -14,18 +14,18 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 
 ## Contact Information
 
-| Name |   Email   |
-|:----------------:|:----------------:|
-| Ashley Juavinett | ajuavinett@ucsd.edu |
-| Ro Sandoval | rlsandoval@health.ucsd.edu |
-| Claire Sun | sun.claire32@gmail.com |
-| Luis Ramirez | luisdr@bu.edu |
-| Karla Godinez | kgodinezmacias@health.ucsd.edu |
-| Michael Schaid | michael.schaid@northwestern.edu |
-| Liz Chamiec-case | echamieccase@health.ucsd.edu |
-| Grant Vousden-Dishington | grantrvd@gmail.com |
-| Chris Vaaga | christopher.vaaga@northwestern.edu |
-| Chiaki Santiago | c5santia@health.ucsd.edu |
+| Name |   Email   | Lessons | 
+|:----------------:|:----------------:|:---------------------------------:|
+| Ashley Juavinett | ajuavinett@ucsd.edu | 06. Loops & 07. NumPy,  Time Series, & Data Viz  |
+| Ro Sandoval | rlsandoval@health.ucsd.edu |   |
+| Claire Sun | sun.claire32@gmail.com | 02. Variables, Expressions, & Syntax |
+| Luis Ramirez | luisdr@bu.edu | 03. Conditionals |
+| Karla Godinez | kgodinezmacias@health.ucsd.edu | 04. Data structures |
+| Michael Schaid | michael.schaid@northwestern.edu | 05. Functions |
+| Liz Chamiec-case | echamieccase@health.ucsd.edu | 08. Pandas and Neural Data Science |
+| Grant Vousden-Dishington | grantrvd@gmail.com | 09. Descriptive Statistics with SciPy |
+| Chris Vaaga | christopher.vaaga@northwestern.edu | |
+| Chiaki Santiago | c5santia@health.ucsd.edu | |
 
 
 <br>
