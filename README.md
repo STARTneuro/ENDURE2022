@@ -12,6 +12,14 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 
 <br>
 
+## How To Use These Materials
+The easiest way to use these materials is to open them in Colab, using the link below!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/STARTneuro/ENDURE2022)
+
+Watch this [welcome video](https://www.loom.com/share/54e77db48361463d8c6f8819eed851c2) for information on how to get set up.
+
+<br>
 
 ## Course Schedule
 ### Tuesday, July 26th
@@ -37,26 +45,20 @@ In this workshop, ENDURE scholars will learn the basics of Python coding, as wel
 
 <br>
 
-## How To Use These Materials
-The easiest way to use these materials is to open them in Colab, using the link below!
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/STARTneuro/ENDURE2022)
-
-<br>
-
 ## Contact Information
 
 | Name |   Contact info   |
 |:----------------:|:----------------:|
 | Ashley Juavinett | ajuavinett@ucsd.edu |
-| Ro Sandoval | rlsandoval@health.ucsd.edu |   
+| Ro Sandoval*| rlsandoval@health.ucsd.edu |   
 | Claire Sun | sun.claire32@gmail.com | 
-| Luis Ramirez | luisdr@bu.edu |
+| Luis Ramirez*| luisdr@bu.edu |
 | Karla Godinez | kgodinezmacias@health.ucsd.edu |
 | Michael Schaid | michael.schaid@northwestern.edu, twt: @mike_schaid | 
 | Liz Chamiec-case | echamieccase@health.ucsd.edu | 
 | Grant Vousden-Dishington | grantrvd@gmail.com, twt: @usethespacebar | 
 | Chris Vaaga | christopher.vaaga@northwestern.edu | 
 | Chiaki Santiago | c5santia@health.ucsd.edu | 
+| * *ENDURE alum* |  | 
 
 
